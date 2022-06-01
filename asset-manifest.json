@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/schoolWebsite/static/css/main.525ac703.chunk.css",
+    "main.js": "/schoolWebsite/static/js/main.1f3705e7.chunk.js",
+    "main.js.map": "/schoolWebsite/static/js/main.1f3705e7.chunk.js.map",
+    "runtime-main.js": "/schoolWebsite/static/js/runtime-main.63f5469e.js",
+    "runtime-main.js.map": "/schoolWebsite/static/js/runtime-main.63f5469e.js.map",
+    "static/css/2.136a4374.chunk.css": "/schoolWebsite/static/css/2.136a4374.chunk.css",
+    "static/js/2.57ed3c7d.chunk.js": "/schoolWebsite/static/js/2.57ed3c7d.chunk.js",
+    "static/js/2.57ed3c7d.chunk.js.map": "/schoolWebsite/static/js/2.57ed3c7d.chunk.js.map",
+    "index.html": "/schoolWebsite/index.html",
+    "static/css/2.136a4374.chunk.css.map": "/schoolWebsite/static/css/2.136a4374.chunk.css.map",
+    "static/css/main.525ac703.chunk.css.map": "/schoolWebsite/static/css/main.525ac703.chunk.css.map",
+    "static/js/2.57ed3c7d.chunk.js.LICENSE.txt": "/schoolWebsite/static/js/2.57ed3c7d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.63f5469e.js",
+    "static/css/2.136a4374.chunk.css",
+    "static/js/2.57ed3c7d.chunk.js",
+    "static/css/main.525ac703.chunk.css",
+    "static/js/main.1f3705e7.chunk.js"
+  ]
+}
