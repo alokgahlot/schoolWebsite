@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import hero1 from "./hero1.jpg";
 
 const Contact = () => {
   const [userData, setUserData] = useState({
@@ -41,7 +42,7 @@ const Contact = () => {
       //     }),
       //   }
       // );
-      const res="fone"
+      const res = "fone";
       if (res) {
         setUserData({
           firstName: "",
@@ -75,11 +76,7 @@ const Contact = () => {
                     We would love to get your feedback about us.
                   </p>
                   <figure>
-                    <img
-                      src="./images/hero1.jpg"
-                      alt="contatUsImg"
-                      className="img-fluid"
-                    />
+                    <img src={hero1} alt="contatUsImg" className="img-fluid" />
                   </figure>
                 </div>
 
@@ -170,16 +167,18 @@ const Contact = () => {
                       />
                       <label
                         class="form-check-label"
-                        className="main-hero-para">
-                        I agree that the Nav Bharti Inter College may contact me at the
-                        email address or phone number above
+                        className="main-hero-para"
+                      >
+                        I agree that the Nav Bharti Inter College may contact me
+                        at the email address or phone number above
                       </label>
                     </div>
 
                     <button
                       type="submit"
                       className="btn btn-style w-100"
-                      onClick={submitData}>
+                      onClick={submitData}
+                    >
                       Submit
                     </button>
                   </form>

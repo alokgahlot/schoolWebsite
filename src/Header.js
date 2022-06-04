@@ -9,9 +9,13 @@ import {
 } from "pure-react-carousel";
 import "pure-react-carousel/dist/react-carousel.es.css";
 import { Image } from "react-bootstrap";
-import image1 from "./image1.jfif";
+import vacc from "./vacc.jpeg";
+import assembly from "./assembly.jpeg";
+import school from "./school.jpeg";
+import vacc2 from "./vacc2.jpeg";
+
 const Header = () => {
-  console.log(image1);
+  console.log(vacc, assembly);
   return (
     <>
       <CarouselProvider
@@ -21,28 +25,16 @@ const Header = () => {
       >
         <Slider>
           <Slide index={0}>
-            <img src={image1} className="carrouselImage" alt="sliderImage" />
+            <img src={school} className="carrouselImage" alt="sliderImage" />
           </Slide>
           <Slide index={1}>
-            <img
-              src="./images/schoolWebsite/static/media/assembly.jpeg"
-              className="carrouselImage"
-              alt="sliderImage"
-            />
+            <img src={assembly} className="carrouselImage" alt="sliderImage" />
           </Slide>
           <Slide index={2}>
-            <img
-              src="./images/vacc.jpeg"
-              className="carrouselImage"
-              alt="sliderImage"
-            />
+            <img src={vacc} className="carrouselImage" alt="sliderImage" />
           </Slide>
           <Slide index={3}>
-            <img
-              src="./images/vacc2.jpeg"
-              className="carrouselImage"
-              alt="sliderImage"
-            />
+            <img src={vacc2} className="carrouselImage" alt="sliderImage" />
           </Slide>
         </Slider>
         <div style={{ position: "absolute", bottom: 30, left: 50 }}>
