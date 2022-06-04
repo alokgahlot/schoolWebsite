@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/schoolWebsite/static/css/main.525ac703.chunk.css",
-    "main.js": "/schoolWebsite/static/js/main.44d857f5.chunk.js",
-    "main.js.map": "/schoolWebsite/static/js/main.44d857f5.chunk.js.map",
+    "main.js": "/schoolWebsite/static/js/main.c6a0b827.chunk.js",
+    "main.js.map": "/schoolWebsite/static/js/main.c6a0b827.chunk.js.map",
     "runtime-main.js": "/schoolWebsite/static/js/runtime-main.63f5469e.js",
     "runtime-main.js.map": "/schoolWebsite/static/js/runtime-main.63f5469e.js.map",
     "static/css/2.136a4374.chunk.css": "/schoolWebsite/static/css/2.136a4374.chunk.css",
@@ -12,13 +12,18 @@
     "static/css/2.136a4374.chunk.css.map": "/schoolWebsite/static/css/2.136a4374.chunk.css.map",
     "static/css/main.525ac703.chunk.css.map": "/schoolWebsite/static/css/main.525ac703.chunk.css.map",
     "static/js/2.a9763c31.chunk.js.LICENSE.txt": "/schoolWebsite/static/js/2.a9763c31.chunk.js.LICENSE.txt",
-    "static/media/image1.c51e64be.jfif": "/schoolWebsite/static/media/image1.c51e64be.jfif"
+    "static/media/assembly.e4776d89.jpeg": "/schoolWebsite/static/media/assembly.e4776d89.jpeg",
+    "static/media/hero1.0d0bfbe1.jpg": "/schoolWebsite/static/media/hero1.0d0bfbe1.jpg",
+    "static/media/principal.478ad7cc.jpeg": "/schoolWebsite/static/media/principal.478ad7cc.jpeg",
+    "static/media/school.e26dd934.jpeg": "/schoolWebsite/static/media/school.e26dd934.jpeg",
+    "static/media/vacc.f01ab99d.jpeg": "/schoolWebsite/static/media/vacc.f01ab99d.jpeg",
+    "static/media/vacc2.b545f85a.jpeg": "/schoolWebsite/static/media/vacc2.b545f85a.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.63f5469e.js",
     "static/css/2.136a4374.chunk.css",
     "static/js/2.a9763c31.chunk.js",
     "static/css/main.525ac703.chunk.css",
-    "static/js/main.44d857f5.chunk.js"
+    "static/js/main.c6a0b827.chunk.js"
   ]
 }
